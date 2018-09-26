@@ -1,0 +1,1 @@
+alias tp='timpack-cli'
